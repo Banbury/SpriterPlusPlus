@@ -5,7 +5,7 @@
 
 #include "SFML/Graphics/RectangleShape.hpp"
 
-#include "../../spriterengine/objectinfo/boxinstanceinfo.h"
+#include <objectinfo/boxinstanceinfo.h>
 
 namespace SpriterEngine
 {

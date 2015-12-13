@@ -1,6 +1,6 @@
-#include "charactermapinstruction.h"
+#include <charactermap/charactermapinstruction.h>
 
-#include "../file/filereference.h"
+#include <file/filereference.h>
 
 namespace SpriterEngine
 {

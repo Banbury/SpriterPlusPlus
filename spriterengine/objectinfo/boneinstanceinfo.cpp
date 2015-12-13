@@ -1,6 +1,8 @@
-#include "boneinstanceinfo.h"
+#include <objectinfo/boneinstanceinfo.h>
 
-#include "../objectref/objectrefinstance.h"
+#include <objectref/objectrefinstance.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

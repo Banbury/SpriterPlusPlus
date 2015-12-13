@@ -1,8 +1,9 @@
-#include "timeline.h"
+#include <timeline/timeline.h>
 
-#include "../global/settings.h"
+#include <global/settings.h>
 
-#include "timelineinstance.h"
+#include <timeline/timelineinstance.h>
+
 
 namespace SpriterEngine
 {

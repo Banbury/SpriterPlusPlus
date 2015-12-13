@@ -5,7 +5,7 @@
 
 #include "SFML/Graphics/ConvexShape.hpp"
 
-#include "../../spriterengine/objectinfo/boneinstanceinfo.h"
+#include <objectinfo/boneinstanceinfo.h>
 
 namespace SpriterEngine
 {

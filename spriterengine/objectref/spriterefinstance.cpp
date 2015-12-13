@@ -1,8 +1,10 @@
-#include "spriterefinstance.h"
+#include <objectref/spriterefinstance.h>
 
-#include "../objectinfo/universalobjectinterface.h"
-#include "../file/filereference.h"
-#include "../override/imagefile.h"
+#include <objectinfo/universalobjectinterface.h>
+#include <file/filereference.h>
+#include <override/imagefile.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

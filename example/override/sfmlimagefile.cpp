@@ -1,8 +1,8 @@
 #include "sfmlimagefile.h"
 
-#include "../../spriterengine/global/settings.h"
+#include <global/settings.h>
 
-#include "../../spriterengine/objectinfo/universalobjectinterface.h"
+#include <objectinfo/universalobjectinterface.h>
 
 namespace SpriterEngine
 {

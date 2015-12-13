@@ -1,6 +1,6 @@
-#include "spriterfileelementwrapper.h"
+#include <override/spriterfileelementwrapper.h>
 
-#include "spriterfileattributewrapper.h"
+#include <override/spriterfileattributewrapper.h>
 
 namespace SpriterEngine
 {

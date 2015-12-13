@@ -1,18 +1,18 @@
-﻿#include "entityinstance.h"
+﻿#include <entity/entityinstance.h>
 
-#include "../global/settings.h"
+#include <global/settings.h>
 
-#include "../objectref/objectrefinstance.h"
-#include "../charactermap/charactermapinterface.h"
-#include "../objectinfo/tagobjectinforeference.h"
-#include "../objectinfo/triggerobjectinfo.h"
+#include <objectref/objectrefinstance.h>
+#include <charactermap/charactermapinterface.h>
+#include <objectinfo/tagobjectinforeference.h>
+#include <objectinfo/triggerobjectinfo.h>
 
-#include "../override/soundobjectinforeference.h"
+#include <override/soundobjectinforeference.h>
 
-#include "../model/spritermodel.h"
+#include <model/spritermodel.h>
 
-#include "entity.h"
-#include "entityinstancedata.h"
+#include <entity/entity.h>
+#include <entity/entityinstancedata.h>
 
 namespace SpriterEngine
 {

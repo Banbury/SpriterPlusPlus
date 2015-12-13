@@ -1,8 +1,8 @@
-#include "loader.h"
+#include <loading/loader.h>
 
-#include "../global/settings.h"
+#include <global/settings.h>
 
-#include "../override/spriterfiledocumentwrapper.h"
+#include <override/spriterfiledocumentwrapper.h>
 
 namespace SpriterEngine
 {

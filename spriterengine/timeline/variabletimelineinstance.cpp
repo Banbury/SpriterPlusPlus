@@ -1,6 +1,6 @@
-#include "variabletimelineinstance.h"
+#include <timeline/variabletimelineinstance.h>
 
-#include "../entity/entityinstancedata.h"
+#include <entity/entityinstancedata.h>
 
 namespace SpriterEngine
 {

@@ -1,9 +1,9 @@
-#include "filefactory.h"
+#include <override/filefactory.h>
 
-#include "imagefile.h"
-#include "soundfile.h"
+#include <override/imagefile.h>
+#include <override/soundfile.h>
 
-#include "spriterfiledocumentwrapper.h"
+#include <override/spriterfiledocumentwrapper.h>
 
 namespace SpriterEngine
 {

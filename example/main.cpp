@@ -5,8 +5,8 @@
 #include "override/examplefilefactory.h"
 
 // include to use Spriter animations
-#include "../spriterengine/spriterengine.h"
-#include "../spriterengine/global/settings.h"
+#include <spriterengine.h>
+#include <global/settings.h>
 
 int main()
 {

@@ -1,10 +1,10 @@
-#include "animationinstance.h"
+#include <animation/animationinstance.h>
 
-#include "../global/settings.h"
+#include <global/settings.h>
 
-#include "../timeline/timelineinstance.h"
+#include <timeline/timelineinstance.h>
 
-#include "animation.h"
+#include <animation/animation.h>
 
 namespace SpriterEngine
 {

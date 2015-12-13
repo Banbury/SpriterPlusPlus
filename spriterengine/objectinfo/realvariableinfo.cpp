@@ -1,4 +1,6 @@
-#include "realvariableinfo.h"
+#include <objectinfo/realvariableinfo.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

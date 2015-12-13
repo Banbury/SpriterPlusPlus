@@ -1,4 +1,4 @@
-#include "eventobjectinfo.h"
+#include <objectinfo/eventobjectinfo.h>
 
 namespace SpriterEngine
 {

@@ -1,11 +1,13 @@
-#include "timelinekey.h"
+#include <timeline/timelinekey.h>
 
-#include "../objectinfo/universalobjectinterface.h"
-#include "../timeinfo/timeinfo.h"
+#include <objectinfo/universalobjectinterface.h>
+#include <timeinfo/timeinfo.h>
 
-#include "../timeinfo/instanteasingcurve.h"
+#include <timeinfo/instanteasingcurve.h>
 
-#include "proxytimelinekey.h"
+#include <timeline/proxytimelinekey.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

@@ -1,8 +1,11 @@
-#include "soundtimelineinstance.h"
+#include <timeline/soundtimelineinstance.h>
 
-#include "../entity/entityinstancedata.h"
+#include <entity/entityinstancedata.h>
+#include <objectinfo/universalobjectinterface.h>
 
-#include "timelinekey.h"
+#include <timeline/timelinekey.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

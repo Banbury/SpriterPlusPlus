@@ -1,8 +1,8 @@
-#include "boneref.h"
+#include <objectref/boneref.h>
 
-#include "../entity/entityinstancedata.h"
+#include <entity/entityinstancedata.h>
 
-#include "bonerefinstance.h"
+#include <objectref/bonerefinstance.h>
 
 namespace SpriterEngine
 {

@@ -1,10 +1,10 @@
-#include "variableinstancenameandidmap.h"
+#include <variable/variableinstancenameandidmap.h>
 
-#include "../global/settings.h"
+#include <global/settings.h>
 
-#include "../objectinfo/universalobjectinterface.h"
+#include <objectinfo/universalobjectinterface.h>
 
-#include "variable.h"
+#include <variable/variable.h>
 
 namespace SpriterEngine
 {

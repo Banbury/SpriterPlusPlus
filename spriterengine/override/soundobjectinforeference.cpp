@@ -1,6 +1,10 @@
-#include "soundobjectinforeference.h"
+#include <override/soundobjectinforeference.h>
 
-#include "../file/filereference.h"
+#include <global/global.h>
+
+#include <file/filereference.h>
+#include <objectref/objectrefinstance.h>
+#include <objectinfo/universalobjectinterface.h>
 
 namespace SpriterEngine
 {

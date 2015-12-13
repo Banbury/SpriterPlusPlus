@@ -3,7 +3,7 @@
 
 #include "../../tinyxml2/tinyxml2.h"
 
-#include "../../spriterengine/override/spriterfileattributewrapper.h"
+#include <override/spriterfileattributewrapper.h>
 
 namespace SpriterEngine
 {

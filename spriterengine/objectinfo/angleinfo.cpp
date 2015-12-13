@@ -1,4 +1,4 @@
-#include "angleinfo.h"
+#include <objectinfo/angleinfo.h>
 
 namespace SpriterEngine
 {

@@ -1,9 +1,9 @@
-#include "objectfactory.h"
+#include <override/objectfactory.h>
 
-#include "../objectinfo/pointinstanceinfo.h"
-#include "../objectinfo/boneinstanceinfo.h"
-#include "../objectinfo/boxinstanceinfo.h"
-#include "../objectinfo/triggerobjectinfo.h"
+#include <objectinfo/pointinstanceinfo.h>
+#include <objectinfo/boneinstanceinfo.h>
+#include <objectinfo/boxinstanceinfo.h>
+#include <objectinfo/triggerobjectinfo.h>
 
 namespace SpriterEngine
 {

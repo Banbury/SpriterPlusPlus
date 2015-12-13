@@ -1,4 +1,4 @@
-#include "taglist.h"
+#include <objectinfo/taglist.h>
 
 namespace SpriterEngine
 {

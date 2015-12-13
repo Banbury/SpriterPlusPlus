@@ -1,4 +1,6 @@
-#include "stringvariableinfo.h"
+#include <objectinfo/stringvariableinfo.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

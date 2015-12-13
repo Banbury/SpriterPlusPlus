@@ -1,4 +1,4 @@
-#include "beziereasingcurve.h"
+#include <timeinfo/beziereasingcurve.h>
 
 #include <cmath>
 

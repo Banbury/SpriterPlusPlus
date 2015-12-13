@@ -1,4 +1,4 @@
-#include "boxobjectinfo.h"
+#include <objectinfo/boxobjectinfo.h>
 
 namespace SpriterEngine
 {

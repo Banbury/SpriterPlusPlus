@@ -1,6 +1,8 @@
-#include "timeinfo.h"
+#include <timeinfo/timeinfo.h>
 
-#include "easingcurveinterface.h"
+#include <timeinfo/easingcurveinterface.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

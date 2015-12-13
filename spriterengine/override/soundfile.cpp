@@ -1,6 +1,8 @@
-#include "soundfile.h"
+#include <override/soundfile.h>
 
-#include "soundobjectinforeference.h"
+#include <override/soundobjectinforeference.h>
+
+#include <file/file.h>
 
 namespace SpriterEngine
 {

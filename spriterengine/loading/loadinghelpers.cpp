@@ -1,14 +1,16 @@
-#include "loadinghelpers.h"
+#include <loading/loadinghelpers.h>
 
-#include "../global/settings.h"
+#include <entity/object.h>
 
-#include "../timeinfo/instanteasingcurve.h"
-#include "../timeinfo/lineareasingcurve.h"
-#include "../timeinfo/quadraticeasingcurve.h"
-#include "../timeinfo/cubiceasingcurve.h"
-#include "../timeinfo/quarticeasingcurve.h"
-#include "../timeinfo/quinticeasingcurve.h"
-#include "../timeinfo/beziereasingcurve.h"
+#include <global/settings.h>
+
+#include <timeinfo/instanteasingcurve.h>
+#include <timeinfo/lineareasingcurve.h>
+#include <timeinfo/quadraticeasingcurve.h>
+#include <timeinfo/cubiceasingcurve.h>
+#include <timeinfo/quarticeasingcurve.h>
+#include <timeinfo/quinticeasingcurve.h>
+#include <timeinfo/beziereasingcurve.h>
 
 namespace SpriterEngine
 {

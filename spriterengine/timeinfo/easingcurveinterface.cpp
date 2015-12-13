@@ -1,4 +1,4 @@
-#include "easingcurveinterface.h"
+#include <timeinfo/easingcurveinterface.h>
 
 namespace SpriterEngine
 {

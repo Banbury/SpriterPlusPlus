@@ -1,4 +1,4 @@
-#include "entityobjectinfo.h"
+#include <objectinfo/entityobjectinfo.h>
 
 namespace SpriterEngine
 {

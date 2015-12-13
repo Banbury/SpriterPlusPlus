@@ -1,7 +1,7 @@
 #ifndef SFMLIMAGEFILE_H
 #define SFMLIMAGEFILE_H
 
-#include "../../spriterengine/override/imagefile.h"
+#include <override/imagefile.h>
 
 #include <SFML/Graphics.hpp>
 

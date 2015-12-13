@@ -1,4 +1,4 @@
-#include "spriterfileattributewrapper.h"
+#include <override/spriterfileattributewrapper.h>
 
 namespace SpriterEngine
 {

@@ -1,26 +1,27 @@
-#include "object.h"
+#include <entity/object.h>
 
-#include "../global/settings.h"
+#include <global/global.h>
+#include <global/settings.h>
 
-#include "../override/objectfactory.h"
+#include <override/objectfactory.h>
 
-#include "../objectinfo/pointobjectinfo.h"
-#include "../objectinfo/boneobjectinfo.h"
-#include "../objectinfo/boxobjectinfo.h"
-#include "../objectinfo/spriteobjectinfo.h"
-#include "../objectinfo/entityobjectinfo.h"
-#include "../objectinfo/soundobjectinfo.h"
-#include "../objectinfo/triggerobjectinfo.h"
-#include "../objectinfo/pointinstanceinfo.h"
-#include "../objectinfo/boneinstanceinfo.h"
-#include "../objectinfo/boxinstanceinfo.h"
+#include <objectinfo/pointobjectinfo.h>
+#include <objectinfo/boneobjectinfo.h>
+#include <objectinfo/boxobjectinfo.h>
+#include <objectinfo/spriteobjectinfo.h>
+#include <objectinfo/entityobjectinfo.h>
+#include <objectinfo/soundobjectinfo.h>
+#include <objectinfo/triggerobjectinfo.h>
+#include <objectinfo/pointinstanceinfo.h>
+#include <objectinfo/boneinstanceinfo.h>
+#include <objectinfo/boxinstanceinfo.h>
 
-#include "../variable/variableinstancenameandidmap.h"
+#include <variable/variableinstancenameandidmap.h>
 
-#include "../model/spritermodel.h"
+#include <model/spritermodel.h>
 
-#include "entityinstance.h"
-#include "entityinstancedata.h"
+#include <entity/entityinstance.h>
+#include <entity/entityinstancedata.h>
 
 namespace SpriterEngine
 {

@@ -1,9 +1,11 @@
-#include "mainlinekeyinstance.h"
+#include <animation/mainlinekeyinstance.h>
 
-#include "../timeinfo/timeinfo.h"
-#include "../objectref/objectrefinstance.h"
+#include <global/global.h>
 
-#include "mainlinekey.h"
+#include <timeinfo/timeinfo.h>
+#include <objectref/objectrefinstance.h>
+
+#include <animation/mainlinekey.h>
 
 namespace SpriterEngine
 {

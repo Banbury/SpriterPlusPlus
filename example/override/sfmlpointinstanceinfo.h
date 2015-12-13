@@ -5,7 +5,7 @@
 
 #include "SFML/Graphics/CircleShape.hpp"
 
-#include "../../spriterengine/objectinfo/pointinstanceinfo.h"
+#include <objectinfo/pointinstanceinfo.h>
 
 namespace SpriterEngine
 {

@@ -1,6 +1,7 @@
-#include "universalobjectinterface.h"
+#include <objectinfo/universalobjectinterface.h>
 
-#include "../global/settings.h"
+#include <global/global.h>
+#include <global/settings.h>
 
 namespace SpriterEngine
 {

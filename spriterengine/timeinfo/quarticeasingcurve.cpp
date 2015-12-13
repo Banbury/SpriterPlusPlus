@@ -1,4 +1,6 @@
-#include "quarticeasingcurve.h"
+#include <timeinfo/quarticeasingcurve.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

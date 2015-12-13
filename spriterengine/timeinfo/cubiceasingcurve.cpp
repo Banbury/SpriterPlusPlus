@@ -1,4 +1,4 @@
-#include "cubiceasingcurve.h"
+#include <timeinfo/cubiceasingcurve.h>
 
 namespace SpriterEngine
 {

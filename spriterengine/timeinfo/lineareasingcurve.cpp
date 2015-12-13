@@ -1,4 +1,6 @@
-#include "lineareasingcurve.h"
+#include <timeinfo/lineareasingcurve.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

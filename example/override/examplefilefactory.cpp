@@ -1,7 +1,7 @@
 #include "examplefilefactory.h"
 
-#include "../../spriterengine/override/imagefile.h"
-#include "../../spriterengine/override/soundfile.h"
+#include <override/imagefile.h>
+#include <override/soundfile.h>
 
 // #define __USE_PUGIXML
 #if not defined(__USE_PUGIXML)

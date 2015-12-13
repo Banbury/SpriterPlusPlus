@@ -1,4 +1,4 @@
-#include "stringvariableinforeference.h"
+#include <objectinfo/stringvariableinforeference.h>
 
 namespace SpriterEngine
 {

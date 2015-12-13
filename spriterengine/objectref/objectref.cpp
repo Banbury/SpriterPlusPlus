@@ -1,10 +1,10 @@
-#include "objectref.h"
+#include <objectref/objectref.h>
 
-#include "../global/settings.h"
+#include <global/settings.h>
 
-#include "../entity/entityinstance.h"
+#include <entity/entityinstance.h>
 
-#include "objectrefinstance.h"
+#include <objectref/objectrefinstance.h>
 
 namespace SpriterEngine
 {

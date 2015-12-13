@@ -1,7 +1,7 @@
 #ifndef EXAMPLEFILEFACTORY_H
 #define EXAMPLEFILEFACTORY_H
 
-#include "../../spriterengine/override/filefactory.h"
+#include <override/filefactory.h>
 
 #include "SFML/Graphics.hpp"
 

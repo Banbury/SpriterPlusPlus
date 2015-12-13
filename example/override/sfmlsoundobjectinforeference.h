@@ -1,7 +1,7 @@
 #ifndef SFMLSOUNDOBJECTINFOREFERENCE_H
 #define SFMLSOUNDOBJECTINFOREFERENCE_H
 
-#include "../../spriterengine/override/soundobjectinforeference.h"
+#include <override/soundobjectinforeference.h>
 
 #include "SFML/Audio.hpp"
 

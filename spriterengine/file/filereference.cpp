@@ -1,6 +1,6 @@
-#include "filereference.h"
+#include <file/filereference.h>
 
-#include "file.h"
+#include <file/file.h>
 
 namespace SpriterEngine
 {

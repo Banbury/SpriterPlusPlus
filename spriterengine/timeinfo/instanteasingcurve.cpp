@@ -1,4 +1,6 @@
-#include "instanteasingcurve.h"
+#include <timeinfo/instanteasingcurve.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

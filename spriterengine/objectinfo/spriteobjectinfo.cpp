@@ -1,6 +1,9 @@
-#include "spriteobjectinfo.h"
+#include <objectinfo/spriteobjectinfo.h>
 
-#include "../objectref/objectrefinstance.h"
+#include <objectref/objectrefinstance.h>
+#include <override/imagefile.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

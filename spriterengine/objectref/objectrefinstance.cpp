@@ -1,13 +1,14 @@
-#include "objectrefinstance.h"
+#include <objectref/objectrefinstance.h>
 
-#include "../global/settings.h"
+#include <global/global.h>
+#include <global/settings.h>
 
-#include "../entity/entityinstance.h"
-#include "../timeline/timelinekey.h"
+#include <entity/entityinstance.h>
+#include <timeline/timelinekey.h>
 
-#include "../objectinfo/universalobjectinterface.h"
+#include <objectinfo/universalobjectinterface.h>
 
-#include "transformprocessor.h"
+#include <objectref/transformprocessor.h>
 
 namespace SpriterEngine
 {

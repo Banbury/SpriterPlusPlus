@@ -1,6 +1,6 @@
 #include "sfmlsoundfile.h"
 
-#include "../../spriterengine/global/settings.h"
+#include <global/settings.h>
 
 #include "sfmlsoundobjectinforeference.h"
 

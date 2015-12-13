@@ -1,4 +1,4 @@
-#include "boneobjectinfo.h"
+#include <objectinfo/boneobjectinfo.h>
 
 namespace SpriterEngine
 {

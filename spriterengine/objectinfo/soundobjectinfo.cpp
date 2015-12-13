@@ -1,4 +1,6 @@
-#include "soundobjectinfo.h"
+#include <objectinfo/soundobjectinfo.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

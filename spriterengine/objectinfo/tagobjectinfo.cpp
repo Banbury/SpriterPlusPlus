@@ -1,4 +1,6 @@
-#include "tagobjectinfo.h"
+#include <objectinfo/tagobjectinfo.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

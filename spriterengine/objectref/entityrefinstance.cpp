@@ -1,8 +1,8 @@
-#include "entityrefinstance.h"
+#include <objectref/entityrefinstance.h>
 
-#include "../entity/entityinstance.h"
+#include <entity/entityinstance.h>
 
-#include "../animation/animationinstance.h"
+#include <animation/animationinstance.h>
 
 namespace SpriterEngine
 {

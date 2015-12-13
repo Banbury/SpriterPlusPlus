@@ -3,7 +3,7 @@
 
 #include "SFML/Graphics/RenderWindow.hpp"
 
-#include "../../spriterengine/override/objectfactory.h"
+#include <override/objectfactory.h>
 
 namespace SpriterEngine
 {

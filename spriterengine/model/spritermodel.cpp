@@ -1,15 +1,18 @@
-#include "spritermodel.h"
+#include <model/spritermodel.h>
 
-#include "../global/settings.h"
+#include <global/global.h>
+#include <global/settings.h>
 
-#include "../entity/entityinstance.h"
+#include <entity/entityinstance.h>
 
-#include "../override/imagefile.h"
-#include "../override/soundfile.h"
-#include "../override/filefactory.h"
-#include "../override/objectfactory.h"
+#include <override/imagefile.h>
+#include <override/soundfile.h>
+#include <override/filefactory.h>
+#include <override/objectfactory.h>
 
-#include "../file/filereference.h"
+#include <file/filereference.h>
+#include <entity/entity.h>
+
 
 namespace SpriterEngine
 {

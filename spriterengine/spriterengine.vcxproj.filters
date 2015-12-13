@@ -239,235 +239,235 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="animation\animation.h">
+    <ClInclude Include="inc\animation\animation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="animation\animationinstance.h">
+    <ClInclude Include="inc\animation\animationinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="animation\mainlinekey.h">
+    <ClInclude Include="inc\animation\mainlinekey.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="animation\mainlinekeyinstance.h">
+    <ClInclude Include="inc\animation\mainlinekeyinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="charactermap\charactermap.h">
+    <ClInclude Include="inc\charactermap\charactermap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="charactermap\charactermapinstruction.h">
+    <ClInclude Include="inc\charactermap\charactermapinstruction.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="charactermap\charactermapinterface.h">
+    <ClInclude Include="inc\charactermap\charactermapinterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="entity\entity.h">
+    <ClInclude Include="inc\entity\entity.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="entity\entityinstance.h">
+    <ClInclude Include="inc\entity\entityinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="entity\entityinstancedata.h">
+    <ClInclude Include="inc\entity\entityinstancedata.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="entity\object.h">
+    <ClInclude Include="inc\entity\object.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="file\file.h">
+    <ClInclude Include="inc\file\file.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="file\filereference.h">
+    <ClInclude Include="inc\file\filereference.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="global\global.h">
+    <ClInclude Include="inc\global\global.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="global\settings.h">
+    <ClInclude Include="inc\global\settings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="loading\loader.h">
+    <ClInclude Include="inc\loading\loader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="loading\loadinghelpers.h">
+    <ClInclude Include="inc\loading\loadinghelpers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="loading\spriterdocumentloader.h">
+    <ClInclude Include="inc\loading\spriterdocumentloader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="model\spritermodel.h">
+    <ClInclude Include="inc\model\spritermodel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\angleinfo.h">
+    <ClInclude Include="inc\objectinfo\angleinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\boneinstanceinfo.h">
+    <ClInclude Include="inc\objectinfo\boneinstanceinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\boneobjectinfo.h">
+    <ClInclude Include="inc\objectinfo\boneobjectinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\boxinstanceinfo.h">
+    <ClInclude Include="inc\objectinfo\boxinstanceinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\boxobjectinfo.h">
+    <ClInclude Include="inc\objectinfo\boxobjectinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\entityobjectinfo.h">
+    <ClInclude Include="inc\objectinfo\entityobjectinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\eventobjectinfo.h">
+    <ClInclude Include="inc\objectinfo\eventobjectinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\intvariableinfo.h">
+    <ClInclude Include="inc\objectinfo\intvariableinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\pointinstanceinfo.h">
+    <ClInclude Include="inc\objectinfo\pointinstanceinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\pointobjectinfo.h">
+    <ClInclude Include="inc\objectinfo\pointobjectinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\realvariableinfo.h">
+    <ClInclude Include="inc\objectinfo\realvariableinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\soundobjectinfo.h">
+    <ClInclude Include="inc\objectinfo\soundobjectinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\spriteobjectinfo.h">
+    <ClInclude Include="inc\objectinfo\spriteobjectinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\stringvariableinfo.h">
+    <ClInclude Include="inc\objectinfo\stringvariableinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\stringvariableinforeference.h">
+    <ClInclude Include="inc\objectinfo\stringvariableinforeference.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\taglist.h">
+    <ClInclude Include="inc\objectinfo\taglist.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\tagobjectinfo.h">
+    <ClInclude Include="inc\objectinfo\tagobjectinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\tagobjectinforeference.h">
+    <ClInclude Include="inc\objectinfo\tagobjectinforeference.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\triggerobjectinfo.h">
+    <ClInclude Include="inc\objectinfo\triggerobjectinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectinfo\universalobjectinterface.h">
+    <ClInclude Include="inc\objectinfo\universalobjectinterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectref\boneref.h">
+    <ClInclude Include="inc\objectref\boneref.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectref\bonerefinstance.h">
+    <ClInclude Include="inc\objectref\bonerefinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectref\entityref.h">
+    <ClInclude Include="inc\objectref\entityref.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectref\entityrefinstance.h">
+    <ClInclude Include="inc\objectref\entityrefinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectref\objectref.h">
+    <ClInclude Include="inc\objectref\objectref.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectref\objectrefinstance.h">
+    <ClInclude Include="inc\objectref\objectrefinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectref\spriteref.h">
+    <ClInclude Include="inc\objectref\spriteref.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectref\spriterefinstance.h">
+    <ClInclude Include="inc\objectref\spriterefinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="objectref\transformprocessor.h">
+    <ClInclude Include="inc\objectref\transformprocessor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="override\filefactory.h">
+    <ClInclude Include="inc\override\filefactory.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="override\imagefile.h">
+    <ClInclude Include="inc\override\imagefile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="override\objectfactory.h">
+    <ClInclude Include="inc\override\objectfactory.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="override\soundfile.h">
+    <ClInclude Include="inc\override\soundfile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="override\soundobjectinforeference.h">
+    <ClInclude Include="inc\override\soundobjectinforeference.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="override\spriterfileattributewrapper.h">
+    <ClInclude Include="inc\override\spriterfileattributewrapper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="override\spriterfiledocumentwrapper.h">
+    <ClInclude Include="inc\override\spriterfiledocumentwrapper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="override\spriterfileelementwrapper.h">
+    <ClInclude Include="inc\override\spriterfileelementwrapper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeinfo\beziereasingcurve.h">
+    <ClInclude Include="inc\timeinfo\beziereasingcurve.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeinfo\cubiceasingcurve.h">
+    <ClInclude Include="inc\timeinfo\cubiceasingcurve.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeinfo\easingcurveinterface.h">
+    <ClInclude Include="inc\timeinfo\easingcurveinterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeinfo\instanteasingcurve.h">
+    <ClInclude Include="inc\timeinfo\instanteasingcurve.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeinfo\lineareasingcurve.h">
+    <ClInclude Include="inc\timeinfo\lineareasingcurve.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeinfo\quadraticeasingcurve.h">
+    <ClInclude Include="inc\timeinfo\quadraticeasingcurve.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeinfo\quarticeasingcurve.h">
+    <ClInclude Include="inc\timeinfo\quarticeasingcurve.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeinfo\quinticeasingcurve.h">
+    <ClInclude Include="inc\timeinfo\quinticeasingcurve.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeinfo\timeinfo.h">
+    <ClInclude Include="inc\timeinfo\timeinfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeline\proxytimelinekey.h">
+    <ClInclude Include="inc\timeline\proxytimelinekey.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeline\soundtimelineinstance.h">
+    <ClInclude Include="inc\timeline\soundtimelineinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeline\tagtimelineinstance.h">
+    <ClInclude Include="inc\timeline\tagtimelineinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeline\timeline.h">
+    <ClInclude Include="inc\timeline\timeline.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeline\timelineinstance.h">
+    <ClInclude Include="inc\timeline\timelineinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeline\timelinekey.h">
+    <ClInclude Include="inc\timeline\timelinekey.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeline\triggertimelineinstance.h">
+    <ClInclude Include="inc\timeline\triggertimelineinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="timeline\variabletimelineinstance.h">
+    <ClInclude Include="inc\timeline\variabletimelineinstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="variable\variable.h">
+    <ClInclude Include="inc\variable\variable.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="variable\variablecontainer.h">
+    <ClInclude Include="inc\variable\variablecontainer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="variable\variableinstancenameandidmap.h">
+    <ClInclude Include="inc\variable\variableinstancenameandidmap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="spriterengine.h">
+    <ClInclude Include="inc\spriterengine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

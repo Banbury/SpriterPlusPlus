@@ -1,4 +1,4 @@
-#include "charactermap.h"
+#include <charactermap/charactermap.h>
 
 namespace SpriterEngine
 {

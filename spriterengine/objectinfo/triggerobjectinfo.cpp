@@ -1,4 +1,6 @@
-#include "triggerobjectinfo.h"
+#include <objectinfo/triggerobjectinfo.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

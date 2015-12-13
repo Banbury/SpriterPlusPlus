@@ -1,16 +1,16 @@
-#include "variable.h"
+#include <variable/variable.h>
 
-#include "../global/settings.h"
+#include <global/settings.h>
 
-#include "../objectinfo/stringvariableinfo.h"
-#include "../objectinfo/stringvariableinforeference.h"
-#include "../objectinfo/intvariableinfo.h"
-#include "../objectinfo/realvariableinfo.h"
+#include <objectinfo/stringvariableinfo.h>
+#include <objectinfo/stringvariableinforeference.h>
+#include <objectinfo/intvariableinfo.h>
+#include <objectinfo/realvariableinfo.h>
 
-#include "../animation/animation.h"
+#include <animation/animation.h>
 
-#include "../timeinfo/timeinfo.h"
-#include "../timeinfo/instanteasingcurve.h"
+#include <timeinfo/timeinfo.h>
+#include <timeinfo/instanteasingcurve.h>
 
 namespace SpriterEngine
 {

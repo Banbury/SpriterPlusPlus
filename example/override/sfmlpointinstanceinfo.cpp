@@ -1,6 +1,6 @@
 #include "sfmlpointinstanceinfo.h"
 
-#include "../../spriterengine/global/settings.h"
+#include <global/settings.h>
 
 namespace SpriterEngine
 {

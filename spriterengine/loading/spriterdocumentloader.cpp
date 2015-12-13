@@ -1,29 +1,32 @@
-#include "spriterdocumentloader.h"
+#include <loading/spriterdocumentloader.h>
+#include <loading/loadinghelpers.h>
 
-#include "../global/settings.h"
+#include <global/settings.h>
 
-#include "../override/spriterfiledocumentwrapper.h"
-#include "../override/spriterfileelementwrapper.h"
-#include "../override/spriterfileattributewrapper.h"
+#include <override/spriterfiledocumentwrapper.h>
+#include <override/spriterfileelementwrapper.h>
+#include <override/spriterfileattributewrapper.h>
 
-#include "../../spriterengine/model/spritermodel.h"
-#include "../../spriterengine/global/global.h"
+#include <model/spritermodel.h>
+#include <global/global.h>
 
-#include "../../spriterengine/timeinfo/instanteasingcurve.h"
-#include "../../spriterengine/timeinfo/lineareasingcurve.h"
-#include "../../spriterengine/timeinfo/timeinfo.h"
+#include <timeinfo/instanteasingcurve.h>
+#include <timeinfo/lineareasingcurve.h>
+#include <timeinfo/timeinfo.h>
 
-#include "../../spriterengine/objectinfo/boneobjectinfo.h"
-#include "../../spriterengine/objectinfo/boxobjectinfo.h"
-#include "../../spriterengine/objectinfo/entityobjectinfo.h"
-#include "../../spriterengine/objectinfo/triggerobjectinfo.h"
-#include "../../spriterengine/objectinfo/tagobjectinfo.h"
+#include <objectinfo/boneobjectinfo.h>
+#include <objectinfo/boxobjectinfo.h>
+#include <objectinfo/entityobjectinfo.h>
+#include <objectinfo/triggerobjectinfo.h>
+#include <objectinfo/tagobjectinfo.h>
 
-#include "../../spriterengine/objectref/boneref.h"
-#include "../../spriterengine/objectref/objectref.h"
-#include "../../spriterengine/objectref/spriteref.h"
-#include "../../spriterengine/objectref/entityref.h"
+#include <objectref/boneref.h>
+#include <objectref/objectref.h>
+#include <objectref/spriteref.h>
+#include <objectref/entityref.h>
 
+#include <entity/entity.h>
+#include <variable/variablecontainer.h>
 
 namespace SpriterEngine
 {

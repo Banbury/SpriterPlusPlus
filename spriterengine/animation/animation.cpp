@@ -1,15 +1,15 @@
-#include "animation.h"
+#include <animation/animation.h>
 
-#include "../global/settings.h"
+#include <global/settings.h>
 
-#include "../timeline/timeline.h"
-#include "../timeline/timelineinstance.h"
-#include "../timeline/soundtimelineinstance.h"
-#include "../timeline/triggertimelineinstance.h"
-#include "../timeline/variabletimelineinstance.h"
-#include "../timeline/tagtimelineinstance.h"
+#include <timeline/timeline.h>
+#include <timeline/timelineinstance.h>
+#include <timeline/soundtimelineinstance.h>
+#include <timeline/triggertimelineinstance.h>
+#include <timeline/variabletimelineinstance.h>
+#include <timeline/tagtimelineinstance.h>
 
-#include "mainlinekeyinstance.h"
+#include <animation/mainlinekeyinstance.h>
 
 namespace SpriterEngine
 {

@@ -3,7 +3,7 @@
 
 #include "../../pugixml/pugixml.hpp"
 
-#include "../../spriterengine/override/spriterfileattributewrapper.h"
+#include <override/spriterfileattributewrapper.h>
 
 namespace SpriterEngine
 {

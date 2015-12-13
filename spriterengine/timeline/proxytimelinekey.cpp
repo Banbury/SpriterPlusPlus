@@ -1,4 +1,4 @@
-#include "proxytimelinekey.h"
+#include <timeline/proxytimelinekey.h>
 
 namespace SpriterEngine
 {

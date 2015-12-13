@@ -1,12 +1,14 @@
-#include "triggertimelineinstance.h"
+#include <timeline/triggertimelineinstance.h>
 
-#include "../global/settings.h"
+#include <global/settings.h>
 
-#include "../entity/entityinstancedata.h"
-#include "../objectinfo/universalobjectinterface.h"
+#include <entity/entityinstancedata.h>
+#include <objectinfo/universalobjectinterface.h>
 
-#include "timeline.h"
-#include "timelinekey.h"
+#include <timeline/timeline.h>
+#include <timeline/timelinekey.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {

@@ -1,8 +1,8 @@
 #include <cmath>
 
-#include "bonerefinstance.h"
+#include <objectref/bonerefinstance.h>
 
-#include "../objectinfo/universalobjectinterface.h"
+#include <objectinfo/universalobjectinterface.h>
 
 namespace SpriterEngine
 {

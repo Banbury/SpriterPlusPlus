@@ -1,6 +1,8 @@
-#include "imagefile.h"
+#include <override/imagefile.h>
 
-#include "../objectinfo/universalobjectinterface.h"
+#include <global/global.h>
+#include <objectinfo/universalobjectinterface.h>
+#include <file/file.h>
 
 namespace SpriterEngine
 {

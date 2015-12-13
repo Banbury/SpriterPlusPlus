@@ -1,8 +1,8 @@
-#include "transformprocessor.h"
+#include <objectref/transformprocessor.h>
 
 #include <cmath>
 
-#include "../objectinfo/universalobjectinterface.h"
+#include <objectinfo/universalobjectinterface.h>
 
 namespace SpriterEngine
 {

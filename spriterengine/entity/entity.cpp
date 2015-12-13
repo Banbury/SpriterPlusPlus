@@ -1,15 +1,15 @@
-#include "entity.h"
-#include "object.h"
+#include <entity/entity.h>
+#include <entity/object.h>
 
-#include "../global/settings.h"
+#include <global/settings.h>
 
-#include "../animation/animationinstance.h"
+#include <animation/animationinstance.h>
 
-#include "../override/objectfactory.h"
-#include "../model/spritermodel.h"
+#include <override/objectfactory.h>
+#include <model/spritermodel.h>
 
-#include "entityinstance.h"
-#include "entityinstancedata.h"
+#include <entity/entityinstance.h>
+#include <entity/entityinstancedata.h>
 
 namespace SpriterEngine
 {

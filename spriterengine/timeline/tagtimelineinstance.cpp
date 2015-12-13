@@ -1,9 +1,9 @@
-#include "tagtimelineinstance.h"
+#include <timeline/tagtimelineinstance.h>
 
-#include "../entity/entityinstancedata.h"
-#include "../objectinfo/tagobjectinforeference.h"
+#include <entity/entityinstancedata.h>
+#include <objectinfo/tagobjectinforeference.h>
 
-#include "timeline.h"
+#include <timeline/timeline.h>
 
 namespace SpriterEngine
 {

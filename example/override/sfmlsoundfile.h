@@ -1,7 +1,7 @@
 #ifndef SFMLSOUNDFILE_H
 #define SFMLSOUNDFILE_H
 
-#include "../../spriterengine/override/soundfile.h"
+#include <override/soundfile.h>
 
 #include "SFML/Audio.hpp"
 

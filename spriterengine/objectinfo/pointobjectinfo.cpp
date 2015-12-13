@@ -1,4 +1,6 @@
-#include "pointobjectinfo.h"
+#include <objectinfo/pointobjectinfo.h>
+
+#include <global/global.h>
 
 namespace SpriterEngine
 {
