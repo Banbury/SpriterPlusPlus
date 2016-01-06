@@ -10,6 +10,7 @@ namespace SpriterEngine
 
 	class SpriterFileDocumentWrapper;
 	class SpriterModel;
+	enum SpriterFileType;
 
 	class Loader
 	{
@@ -18,6 +19,7 @@ namespace SpriterEngine
 		~Loader();
 
 		void loadFile(SpriterModel *model, const std::string &fileName);
+		void loadFileSCML(SpriterModel *model, const std::string &fileName);
 
 	private:
 		enum SpriterFileType

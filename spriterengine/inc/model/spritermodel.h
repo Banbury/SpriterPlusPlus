@@ -48,6 +48,7 @@ namespace SpriterEngine
 		const std::string *getTag(int tagIndex);
 
 		void loadFile(const std::string &fileName);
+		void loadFileSCML(const std::string &fileName);
 
 	private:
 		FileVector files;

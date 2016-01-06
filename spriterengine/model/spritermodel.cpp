@@ -160,6 +160,11 @@ namespace SpriterEngine
 		loader.loadFile(this, fileName);
 	}
 
+	void SpriterModel::loadFileSCML(const std::string & fileName)
+	{
+		loader.loadFileSCML(this, fileName);
+	}
+
 	Entity * SpriterModel::getEntity(int entityId)
 	{
 		if (entityId < entities.size())

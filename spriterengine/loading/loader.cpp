@@ -52,6 +52,18 @@ namespace SpriterEngine
 		}
 	}
 
+	void Loader::loadFileSCML(SpriterModel *model, const std::string &fileName)
+	{
+		if (scmlDocumentWrapper)
+		{
+			spriterDocumentLoader.loadFile(model, scmlDocumentWrapper, fileName);
+		}
+		else
+		{
+			Settings::error("Loader::loadFile - attempting to load scml file \"" + fileName + "\" : no scml document wrapper found");
+		}
+	}
+
 	Loader::SpriterFileType Loader::extractFileTypeFromFileName(const std::string &fileName)
 	{
 		size_t lastDot = fileName.find_last_of(".");
